@@ -14,5 +14,13 @@
   {
     "label": "Veganos",
     "id": 4
+  },
+  {
+    "label": "Saladas",
+    "id": 5
+  },
+  {
+    "label": "Doces",
+    "id": 6
   }
 ]
